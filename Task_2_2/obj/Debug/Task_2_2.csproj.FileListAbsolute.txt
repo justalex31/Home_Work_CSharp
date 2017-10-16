@@ -1,0 +1,6 @@
+C:\Users\Alex\Source\Repos\HomeWork\Task_2_2\bin\Debug\Task_2_2.exe.config
+C:\Users\Alex\Source\Repos\HomeWork\Task_2_2\bin\Debug\Task_2_2.exe
+C:\Users\Alex\Source\Repos\HomeWork\Task_2_2\bin\Debug\Task_2_2.pdb
+C:\Users\Alex\Source\Repos\HomeWork\Task_2_2\obj\Debug\Task_2_2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\HomeWork\Task_2_2\obj\Debug\Task_2_2.exe
+C:\Users\Alex\Source\Repos\HomeWork\Task_2_2\obj\Debug\Task_2_2.pdb
